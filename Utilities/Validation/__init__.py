@@ -1,9 +1,9 @@
-def validate_options(qtd_options):
+def validate_options(amount_options):
     while True:
         option = input(f'Your option: ')
         try:
             integer_option = int(option)
-            if integer_option not in range(1, qtd_options + 1):
+            if integer_option not in range(1, amount_options + 1):
                 print('Invalid.')
             else:
                 break
