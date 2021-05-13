@@ -1,6 +1,6 @@
 # PythonCeV
 
-## What will I find in this repository?
+## What will you find in this repository?
  
 Exercises and theoretical material for consultation.
 
@@ -10,7 +10,7 @@ Originally made in May 2019, but revised for logical and grammatical corrections
 
 Even so, I admit that some inconsistencies are still here. Your help is welcome.
 
-## O que vou encontrar neste repositório?
+## O que você encontrará neste repositório?
 
 Exercícios e material teórico para consulta.
 
